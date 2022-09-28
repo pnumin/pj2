@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+  <title>주사위게임</title>
+  <link rel="manifest" href="manifest.json" />  
+  <link rel="stylesheet" href="./styles/index.css">
+    
+  <script src="./scripts/index.js"></script>
+  <script type="module">
+    import 'https://cdn.jsdelivr.net/npm/@pwabuilder/pwaupdate';
+    const el = document.createElement('pwa-update');
+    document.body.appendChild(el);
+ </script>
+</head>
+<body>
+  <div id="root">
+    <header><h1 id="h1">주사위게임</h1></header>
+    <main id="content">
+      온라인연결이 원활하지 않습니다.
+    </main> 
+  </div>  
+</body>
+</html>
