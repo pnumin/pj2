@@ -1,0 +1,35 @@
+{
+  "background_color": "#ffffff",
+  "description": "PWA 주사위(K-digital)",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "PWA 주사위",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "PWA주사위",
+  "start_url": "https://pnumin.github.io/pj2/",
+  "theme_color": "#ffffff",
+  "categories": [],
+  "screenshots": [],
+  "icons": [
+    {
+      "src": "./images/i256.png",
+      "type": "image/png",
+      "sizes": "256x256",
+      "purpose": "any"
+    },
+    {
+      "src": "./images/i512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any"
+    },
+    {
+      "src": "./images/i5192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any"
+    }
+  ],
+  "shortcuts": []
+}
