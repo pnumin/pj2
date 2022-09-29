@@ -5,7 +5,7 @@
   "display": "standalone",
   "name": "PWA 주사위",
   "orientation": "any",
-  "scope": "/",
+  "scope": "/pj2/",
   "short_name": "PWA주사위",
   "start_url": "https://pnumin.github.io/pj2/",
   "theme_color": "#ffffff",
